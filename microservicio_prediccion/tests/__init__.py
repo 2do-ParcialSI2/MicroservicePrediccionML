@@ -1,0 +1,1 @@
+# Tests para microservicio_prediccion Django app 
